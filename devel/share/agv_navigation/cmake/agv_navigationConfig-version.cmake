@@ -1,0 +1,1 @@
+/home/yi/catkin_ws/devel/.private/agv_navigation/share/agv_navigation/cmake/agv_navigationConfig-version.cmake

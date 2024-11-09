@@ -1,0 +1,1 @@
+/home/yi/catkin_ws/devel/.private/mobile_robot_urdf/share/mobile_robot_urdf/cmake/mobile_robot_urdfConfig.cmake

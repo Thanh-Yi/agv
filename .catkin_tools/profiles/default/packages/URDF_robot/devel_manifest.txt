@@ -1,0 +1,5 @@
+URDF_robot
+/home/yi/catkin_ws/devel/.private/URDF_robot/cmake.lock /home/yi/catkin_ws/devel/./cmake.lock
+/home/yi/catkin_ws/devel/.private/URDF_robot/lib/pkgconfig/URDF_robot.pc /home/yi/catkin_ws/devel/lib/pkgconfig/URDF_robot.pc
+/home/yi/catkin_ws/devel/.private/URDF_robot/share/URDF_robot/cmake/URDF_robotConfig-version.cmake /home/yi/catkin_ws/devel/share/URDF_robot/cmake/URDF_robotConfig-version.cmake
+/home/yi/catkin_ws/devel/.private/URDF_robot/share/URDF_robot/cmake/URDF_robotConfig.cmake /home/yi/catkin_ws/devel/share/URDF_robot/cmake/URDF_robotConfig.cmake

@@ -1,0 +1,8 @@
+prefix=/home/yi/catkin_ws/install
+
+Name: urdf_mobile_robot
+Description: Description of urdf_mobile_robot
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

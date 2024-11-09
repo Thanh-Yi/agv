@@ -1,0 +1,3 @@
+Symlinking /home/yi/catkin_ws/devel/lib/pkgconfig/URDF_robot.pc
+Symlinking /home/yi/catkin_ws/devel/share/URDF_robot/cmake/URDF_robotConfig-version.cmake
+Symlinking /home/yi/catkin_ws/devel/share/URDF_robot/cmake/URDF_robotConfig.cmake

@@ -1,0 +1,5 @@
+urdf_mobile_robot
+/home/yi/catkin_ws/devel/.private/urdf_mobile_robot/cmake.lock /home/yi/catkin_ws/devel/./cmake.lock
+/home/yi/catkin_ws/devel/.private/urdf_mobile_robot/lib/pkgconfig/urdf_mobile_robot.pc /home/yi/catkin_ws/devel/lib/pkgconfig/urdf_mobile_robot.pc
+/home/yi/catkin_ws/devel/.private/urdf_mobile_robot/share/urdf_mobile_robot/cmake/urdf_mobile_robotConfig.cmake /home/yi/catkin_ws/devel/share/urdf_mobile_robot/cmake/urdf_mobile_robotConfig.cmake
+/home/yi/catkin_ws/devel/.private/urdf_mobile_robot/share/urdf_mobile_robot/cmake/urdf_mobile_robotConfig-version.cmake /home/yi/catkin_ws/devel/share/urdf_mobile_robot/cmake/urdf_mobile_robotConfig-version.cmake

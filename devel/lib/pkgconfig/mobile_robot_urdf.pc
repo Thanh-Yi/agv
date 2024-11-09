@@ -1,0 +1,1 @@
+/home/yi/catkin_ws/devel/.private/mobile_robot_urdf/lib/pkgconfig/mobile_robot_urdf.pc

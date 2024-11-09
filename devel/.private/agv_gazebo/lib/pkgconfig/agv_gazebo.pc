@@ -1,0 +1,8 @@
+prefix=/home/yi/catkin_ws/devel/.private/agv_gazebo
+
+Name: agv_gazebo
+Description: Description of agv_gazebo
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

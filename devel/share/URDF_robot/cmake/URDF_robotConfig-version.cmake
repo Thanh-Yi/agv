@@ -1,0 +1,1 @@
+/home/yi/catkin_ws/devel/.private/URDF_robot/share/URDF_robot/cmake/URDF_robotConfig-version.cmake

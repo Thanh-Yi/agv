@@ -1,0 +1,8 @@
+prefix=/home/yi/catkin_ws/devel/.private/agv_hector_slam
+
+Name: agv_hector_slam
+Description: Description of agv_hector_slam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

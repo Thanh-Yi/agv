@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yi/catkin_ws/devel/.private/URDF_robot/setup.sh

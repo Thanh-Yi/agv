@@ -1,0 +1,8 @@
+prefix=/home/yi/catkin_ws/install
+
+Name: agv_urdf
+Description: Description of agv_urdf
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
