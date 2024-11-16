@@ -1,0 +1,1 @@
+/home/yi/catkin_ws/devel/.private/agv_multigoal/share/agv_multigoal/cmake/agv_multigoalConfig.cmake

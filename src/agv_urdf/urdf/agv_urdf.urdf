@@ -104,7 +104,7 @@
     </collision>
   </link>
   <joint name="MT_up_left_jt" type="fixed">
-    <origin xyz="0.11002 0.095 -0.019" rpy="0 0 0" />
+    <origin xyz="0.11002 0.095 -0.029" rpy="0 0 0" />
     <parent link="base_link" />
     <child link="MT_up_left" />
     <axis xyz="0 0 0" />
@@ -132,7 +132,7 @@
     </collision>
   </link>
   <joint name="MT_up_right_jt" type="fixed">
-    <origin xyz="0.11002 -0.095 -0.019" rpy="0 0 0" />
+    <origin xyz="0.11002 -0.095 -0.029" rpy="0 0 0" />
     <parent link="base_link" />
     <child link="MT_up_right" />
     <axis xyz="0 0 0" />
@@ -160,7 +160,7 @@
     </collision>
   </link>
   <joint name="MT_behind_left_jt" type="fixed">
-    <origin xyz="-0.10998 0.095 -0.019" rpy="0 0 0" />
+    <origin xyz="-0.10998 0.095 -0.029" rpy="0 0 0" />
     <parent link="base_link" />
     <child link="MT_behind_left" />
     <axis xyz="0 0 0" />
@@ -188,7 +188,7 @@
     </collision>
   </link>
   <joint name="MT_behind_right_jt" type="fixed">
-    <origin xyz="-0.10998 -0.095 -0.019" rpy="0 0 0" />
+    <origin xyz="-0.10998 -0.095 -0.029" rpy="0 0 0" />
     <parent link="base_link" />
     <child link="MT_behind_right" />
     <axis xyz="0 0 0" />

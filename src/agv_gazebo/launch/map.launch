@@ -34,5 +34,5 @@
                 -x $(arg x) -y $(arg y) -z $(arg z)" output="screen"/>
 
     <!-- Start Rviz -->
-    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find agv_urdf)/rviz/agv_rviz.rviz" />
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find agv_gazebo)/rviz/agv_rviz.rviz" />
 </launch>

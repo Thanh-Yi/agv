@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+
+  <!-- Launch Gazebo -->
+  <include file="$(find agv_gazebo)/launch/map.launch"/>
+
+  <!-- Launch Navigation -->
+  <include file="$(find agv_navigation)/launch/navigation.launch"/>
+
+</launch>
