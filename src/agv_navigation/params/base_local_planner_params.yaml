@@ -1,15 +1,13 @@
 TrajectoryPlannerROS:
-  max_vel_x: 1
+  max_vel_x: 0.5
   min_vel_x: 0.1
   max_vel_theta: 3.0
   min_in_place_vel_theta: 1.4
 
-  acc_lim_theta: 3.2
+  acc_lim_theta: 4.0
   acc_lim_x: 2.5
-  acc_lim_y: 2.5
-
-  path_distance_bias: 50.0  # Giá trị mẫu
-  goal_distance_bias: 20.0  # Giá trị mẫu
+  path_distance_bias: 32.0
+  goal_distance_bias: 60.0
 
   holonomic_robot: false
   meter_scoring: true

@@ -9,13 +9,13 @@ import tf
 goals = [
     {'x': 0.0, 'y': 0.0},
     {'x': 2.5, 'y': 0.0},
-    {'x': 4.5, 'y': 0.0},
-    {'x': 4.5, 'y': 1.25},
-    {'x': 2.5, 'y': 1.25},
-    {'x': 0.0, 'y': 1.25},
-    {'x': 0.0, 'y': 2.75},
-    {'x': 2.5, 'y': 2.75},
-    {'x': 4.5, 'y': 2.75},
+    {'x': 4.8, 'y': 0.0},
+    {'x': 4.8, 'y': 1.4},
+    {'x': 2.5, 'y': 1.4},
+    {'x': 0.0, 'y': 1.4},
+    {'x': 0.0, 'y': 2.9},
+    {'x': 2.5, 'y': 2.9},
+    {'x': 4.8, 'y': 2.9},
 ]
 
 # Danh sách lưu các điểm đã đi qua (dưới frame map)
@@ -90,7 +90,7 @@ def create_path_marker():
     marker.color.b = 1.0  # Màu xanh dương cho đường robot đã đi qua
     marker.id = 1  # ID duy nhất cho marker
 
-    z_offset = 0.01  # Offset để đường không bị chìm
+    z_offset = 0.05  # Offset để đường không bị chìm
     for point in path_points:
         offset_point = Point()
         offset_point.x = point.x

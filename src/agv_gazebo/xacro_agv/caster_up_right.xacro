@@ -24,7 +24,7 @@
       </collision>
     </link>
     <joint name="MT_up_right_jt" type="fixed">
-      <origin xyz="0.11002 -0.095 -0.019" rpy="0 0 0" />
+      <origin xyz="0.11002 -0.095 -0.0204" rpy="0 0 0" />
       <parent link="base_link" />
       <child link="MT_up_right" />
       <axis xyz="0 0 0" />

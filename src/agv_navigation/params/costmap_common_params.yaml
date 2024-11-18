@@ -2,7 +2,7 @@ obstacle_range: 3.5         #Tam quet cua lidar
 raytrace_range: 4.0
 footprint: [[0.25, 0.15], [-0.25, 0.15], [0.25, -0.15], [-0.25, -0.15]]
 #robot_radius: ir_of_robot
-inflation_radius: 0.3
+inflation_radius: 0.25
 
 observation_sources: laser_scan_sensor 
 # point_cloud_sensor
