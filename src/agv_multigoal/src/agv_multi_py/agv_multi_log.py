@@ -5,7 +5,7 @@ from nav_msgs.msg import Odometry
 import time
 
 # Biến toàn cục để lưu timestamp lần ghi cuối
-np.float128(last_logged_time) = None
+(last_logged_time) = None
 
 def callback_odom(data):
     global last_logged_time
